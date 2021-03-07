@@ -1,6 +1,6 @@
 # Logisim - Datapath
 
-A full datapath made in Logisim. This was an assignment for the course Computer Systems and Architecture (Ba1 Computer Sience, University of antwerp). This project was made in pairs, my partner was https://github.com/Maarten11. You can find a more detailled overview of the project in the included .html file. The final grade of this project was 9.00/10.
+A full datapath made in Logisim. This was an assignment for the course Computer Systems and Architecture (Ba1 Computer Sience, University of antwerp). This project was made in pairs, my partner was https://github.com/Maarten11. You can find a more detailled overview of the project (in dutch) in the included .html file. The final grade of this project was 9.00/10.
 
 ## Tools
 
