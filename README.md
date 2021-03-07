@@ -4,7 +4,7 @@ A full datapath made in Logisim. This was an assignment for the course Computer 
 
 ## Tools
 
-To open this project, you should first have logisim.jar. If you don't have it already, you can download it from http://www.cburch.com/logisim/. The version in which this project is made is 2.7.1. Logisim uses java, so make sure that you have installed that as well. If not, you can find it here: https://www.java.com/en/download/.
+To open this project, you should first have logisim.jar. If you don't have it already, you can download it from http://www.cburch.com/logisim/. The version in which this project is made is 2.7.1.
 
 ## Opening the project
 
