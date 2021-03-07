@@ -8,7 +8,7 @@ To open this project, you should first have logisim.jar. If you don't have it al
 
 ## Opening the project
 
-You can open this project via Logisim. Press "File -> Open" and select "FullDatapath.circ". If Logisim asks you to select a .circ file, select the corresponding one from downloaded directory.
+You can open this project via Logisim. Press "File -> Open" and select "FullDatapath.circ". If Logisim asks you to select a .circ file, select the corresponding one from the downloaded directory.
 
 ## Warning
 
